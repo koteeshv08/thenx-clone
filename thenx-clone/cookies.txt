@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.thenx.com	TRUE	/	FALSE	1999999999	__cfduid	d0d3eacafcf3ccf6a1f3d066c5b309ec31588484286
+www.thenx.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.thenx.com	TRUE	/	FALSE	1999999999	_thenx_session	7%2Bj7XnTnr7i5MyHCBtZI1m1u5Mu10xlxBy%2FGKLUkm%2BkLvCAmuNtrJuEiJzqZVCZ4A6gCjF3YwOQ7wyhNu9zI1ThM02ax4cybGeYu64JushONyzqca7uX75yqF48cn%2Fr7RXAGXR%2Bhcdosklhb24I%3D--QNhOIWobk6T9el0k--r4Ys4padT92MWwJy%2FPmv4Q%3D%3D
+
